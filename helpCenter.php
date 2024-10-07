@@ -1,3 +1,10 @@
+<?php
+$title = "helpCenter.php";
+include('../connection/connection.php');
+include('inc/cleaninput.php');
+include('inc/feedback.php');
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
